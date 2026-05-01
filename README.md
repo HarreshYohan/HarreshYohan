@@ -183,7 +183,7 @@ func main() {
 </td>
 <td valign="top">
 
-<details open>
+<details>
 <summary>&nbsp;<b>Global Tote Lankan</b> &nbsp;·&nbsp; Software Engineer &nbsp;&nbsp;<img src="https://img.shields.io/badge/Jun_2021_→_Jun_2025-a8b2d8?style=flat-square"/></summary>
 <br/>
 
