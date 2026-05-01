@@ -117,64 +117,257 @@ func main() {
 
 ## &nbsp;`$ experience --timeline`
 
+<table width="100%">
+
+<tr>
+<td width="2" align="center" valign="top">
+<br/>
+
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  NEXT Technology                        Jun 2025 → Present  │
-│  Senior Software Engineer                                   │
-│                                                             │
-│  · Finance Transformation: migrated legacy hubs to a        │
-│    fully integrated Oracle ecosystem via ADF pipelines      │
-│    and Azure Service Bus                                    │
-│  · Built ARIA (Accounts Receivable Automation) using        │
-│    .NET Blazor + Dapper + MS SQL — eliminated manual        │
-│    intervention across AP/AR processes                      │
-│  · Leveraged Entra ID, Key Vault, Azure Insights and        │
-│    CI/CD pipelines for secure, production-ready delivery    │
-└─────────────────────────────────────────────────────────────┘
-            │
-┌─────────────────────────────────────────────────────────────┐
-│  Global Tote Lankan                    Jun 2021 → Jun 2025  │
-│  Software Engineer                                          │
-│                                                             │
-│  · Led full monolith-to-microservices migration in Go       │
-│    using goroutines, channels, and event-driven design      │
-│  · Achieved 75% reduction in GraphQL API latency via gRPC  │
-│  · Integrated Kafka + RabbitMQ for async communication      │
-│  · Containerised with Docker, orchestrated on Kubernetes    │
-└─────────────────────────────────────────────────────────────┘
-            │
-┌─────────────────────────────────────────────────────────────┐
-│  Linear Squared (PVT) LTD             Jul 2020 → Jun 2021  │
-│  Software Engineer                                          │
-│                                                             │
-│  · Built microservices from scratch using DDD principles    │
-│    across Node.js (TypeScript), C# (.NET Core), Python      │
-│  · Delivered Azure Functions, App Services, Cosmos DB       │
-│  · REST APIs with Swagger annotations shipped in 6 months  │
-└─────────────────────────────────────────────────────────────┘
-            │
-┌─────────────────────────────────────────────────────────────┐
-│  YOHO BED / Virtusa                   Jan 2019 → Jul 2020  │
-│  Associate Software Engineer / Automation Associate         │
-│                                                             │
-│  · PHP · React · MySQL full-stack development               │
-│  · Google Data Studio dashboards via Appscript              │
-│  · RPA tooling and quality assurance automation             │
-└─────────────────────────────────────────────────────────────┘
+●
+│
+│
+│
+│
+│
+│
+│
+│
+│
+│
 ```
+
+</td>
+<td valign="top">
+
+<details open>
+<summary>&nbsp;<b>NEXT Technology</b> &nbsp;·&nbsp; Senior Software Engineer &nbsp;&nbsp;<img src="https://img.shields.io/badge/Jun_2025_→_Present-64FFDA?style=flat-square&logoColor=black"/></summary>
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Finance & Enterprise Platform Engineering`
+
+| | Achievement |
+|:---:|---|
+| 🏦 | Migrated legacy finance hubs to a fully integrated **Oracle ecosystem** via ADF pipelines and Azure Service Bus |
+| 🤖 | Built **ARIA** (Accounts Receivable Automation) with `.NET Blazor · Dapper · MS SQL` — eliminated manual AP/AR intervention end-to-end |
+| ☁️ | Production-grade delivery using **Entra ID · Key Vault · Azure Insights · CI/CD** pipelines |
+
+<br/>
+
+![.NET](https://img.shields.io/badge/.NET_Blazor-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td width="2" align="center" valign="top">
+
+```
+●
+│
+│
+│
+│
+│
+│
+│
+│
+│
+│
+```
+
+</td>
+<td valign="top">
+
+<details open>
+<summary>&nbsp;<b>Global Tote Lankan</b> &nbsp;·&nbsp; Software Engineer &nbsp;&nbsp;<img src="https://img.shields.io/badge/Jun_2021_→_Jun_2025-a8b2d8?style=flat-square"/></summary>
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Distributed Systems · High-Performance APIs · Cloud-Native Go`
+
+| | Achievement |
+|:---:|---|
+| ⚡ | Led full **monolith → microservices** migration in Go using goroutines, channels, and event-driven design |
+| 🚀 | Achieved **75% reduction** in GraphQL API latency via gRPC service-to-service optimisation |
+| 📨 | Integrated **Kafka + RabbitMQ** for resilient async communication across services |
+| 🐳 | Containerised workloads with Docker, orchestrated on **Kubernetes** in production |
+
+<br/>
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td width="2" align="center" valign="top">
+
+```
+●
+│
+│
+│
+│
+│
+│
+│
+│
+│
+│
+```
+
+</td>
+<td valign="top">
+
+<details>
+<summary>&nbsp;<b>Linear Squared (PVT) LTD</b> &nbsp;·&nbsp; Software Engineer &nbsp;&nbsp;<img src="https://img.shields.io/badge/Jul_2020_→_Jun_2021-a8b2d8?style=flat-square"/></summary>
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Microservices from Scratch · DDD · Azure Cloud`
+
+| | Achievement |
+|:---:|---|
+| 🏗️ | Built microservices from scratch following **DDD principles** across Node.js (TypeScript), C# (.NET Core), and Python |
+| ☁️ | Delivered **Azure Functions, App Services, Cosmos DB** integrations end-to-end |
+| 📡 | REST APIs with Swagger shipped and in production within **6 months** |
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td width="2" align="center" valign="top">
+
+```
+●
+```
+
+</td>
+<td valign="top">
+
+<details>
+<summary>&nbsp;<b>YOHO BED / Virtusa</b> &nbsp;·&nbsp; Associate Software Engineer &nbsp;&nbsp;<img src="https://img.shields.io/badge/Jan_2019_→_Jul_2020-a8b2d8?style=flat-square"/></summary>
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Full-Stack · Automation · Data`
+
+| | Achievement |
+|:---:|---|
+| 🌐 | PHP · React · MySQL full-stack web development |
+| 📊 | Google Data Studio dashboards built via Appscript for business intelligence reporting |
+| 🤖 | RPA tooling and quality assurance automation delivery |
+
+<br/>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</details>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
 ## &nbsp;`$ projects --current`
 
+<br/>
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="50%">
+
 <div align="center">
 
-| Project | Stack | Status |
-|---|---|:---:|
-| **Centa** — Personal finance app | React Native · Supabase · Anthropic API | 🔨 Building |
-| **Institute Management System** | Full-stack web platform for tuition management | 🔨 Building |
+### 💰 Centa
 
 </div>
+
+> Personal finance management app — track spending, manage budgets, and get AI-powered insights into your financial habits.
+
+**Stack**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-CC785C?style=flat-square&logoColor=white)
+
+**Features**
+
+- 📊 Spending analytics with visual breakdowns
+- 🤖 AI-powered financial insights via Claude
+- 🔔 Budget alerts and recurring transaction tracking
+- 🔐 Secure auth via Supabase
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-🔨_Building-64FFDA?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Mobile_App-a8b2d8?style=flat-square)
+
+</div>
+
+</td>
+
+<td width="2%"></td>
+
+<td valign="top" width="50%">
+
+<div align="center">
+
+### 🎓 Institute Management System
+
+</div>
+
+> Full-stack web platform for managing tuition centers — students, classes, payments, and performance in one place.
+
+**Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Features**
+
+- 🧑‍🎓 Student enrollment and attendance tracking
+- 💳 Payment management and invoice generation
+- 📈 Performance dashboards per student & class
+- 🔑 Role-based access for teachers and admins
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-🔨_Building-64FFDA?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Web_Platform-a8b2d8?style=flat-square)
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 ---
 
